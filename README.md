@@ -3,7 +3,7 @@
 ## 作业说明
 本次作业结构为
 
-`
+```
 CV_python_toolbox/
 	script/
 		filter.py
@@ -15,7 +15,7 @@ images/
 code.txt
 README.md
 .gitignore
-`
+```
 ## Prerequisite
 
 Python-Opencv
