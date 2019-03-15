@@ -2,7 +2,8 @@
 自动化钱61 赵子瑞 2160405068
 ## 作业说明
 本次作业结构为
-``
+
+```
 CV_python_toolbox/
 	script/
 		filter.py
@@ -14,7 +15,7 @@ images/
 code.txt
 README.md
 .gitignore
-``
+```
 ## Prerequisite
 
 Python-Opencv
